@@ -1,0 +1,2 @@
+curl --request HEAD \
+  --url https://google.com/
